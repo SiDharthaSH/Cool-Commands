@@ -1,0 +1,7 @@
+1. xinitrc
+2. dwm 
+3. st
+3. nvim + manual lsp
+4. tmux
+# Coding
+1. Doxygen: for documenation
