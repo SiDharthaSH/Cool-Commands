@@ -1,5 +1,4 @@
 # ffplay
----
 
 comes with ffmpeg and can be used like 
 
